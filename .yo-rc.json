@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "me.amplitudo.store",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "store",
+    "packageName": "me.amplitudo.store",
+    "packageFolder": "me/amplitudo/store",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "gradle",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NGZkNThmOGMxZGU2OWM3YzNkNTU3OTNhMmY3OWRlMzc1ZjQ5OWU5MzZhZTU2N2E4OTkyNGIxZTBkZTY2Y2U3YmJiM2Q3ZDQyODMyNjdmMGJkZThkNDA2YWQ4MzBmYzkyMzNmMWQxMDk4MTc5NjdlOTkzZTllYmI0N2NmNjY3Zjg=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "skipClient": true,
+    "creationTimestamp": 1613765301117,
+    "testFrameworks": ["protractor"],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "sr"],
+    "blueprints": []
+  }
+}
